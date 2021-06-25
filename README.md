@@ -1,4 +1,4 @@
-# report_digitalizzazione_enti
+# `Report digitalizzazione enti pubblici`
 Questo repository è stato creato per ospitare pubblicazioni nazionali sulla digitalizzazione degli enti pubblici con particolare riferimento ai comuni, che sono gli enti pubblici che erogano la maggior parte dei servizi alla collettività.
 Le pubblicazioni sono suddivise per anni.
 
