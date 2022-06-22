@@ -19,6 +19,4 @@ Le pubblicazioni sono suddivise per anni.
 
 ## 2022
 
-[**“Indagine sulla maturità digitale dei Comuni capoluogo”: nel 2022 sono 41 le città con un buon livello di maturità**](https://www.forumpa.it/pa-digitale/indagine-sulla-maturita-digitale-dei-comuni-capoluogo-nel-2022-sono-41-le-citta-con-un-buon-livello-di-maturita-25-in-piu-rispetto-al-2021/).
-
-[Link al report completo](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/Indagine_maturita_digitale_dei_Comuni_2022.pdf)
+[**Indagine sulla maturità digitale dei Comuni capoluogo: nel 2022 sono 41 le città con un buon livello di maturità**](https://www.forumpa.it/pa-digitale/indagine-sulla-maturita-digitale-dei-comuni-capoluogo-nel-2022-sono-41-le-citta-con-un-buon-livello-di-maturita-25-in-piu-rispetto-al-2021/).  [Link al report completo](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/Indagine_maturita_digitale_dei_Comuni_2022.pdf)
