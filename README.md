@@ -23,3 +23,7 @@ Le pubblicazioni sono suddivise per anni.
 
 [**Report ICityRank 2022**](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/REPORT-ICITYRANK-2022.pdf)
 
+
+## 2024
+
+[**Indagine sulla maturità digitale dei Comuni capoluogo**](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/blob/main/Report_digitalizzazione__enti_pubblici/2024/Indagine-maturita-digitale-comuni-capoluogo_Deda-Next_RicercaCa_Re-2024.pdf)
